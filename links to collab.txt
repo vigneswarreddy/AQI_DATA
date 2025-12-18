@@ -1,0 +1,7 @@
+https://colab.research.google.com/drive/1GA2b4E4MpDtuZdzUTG0nLFAFQ1uMBMKI?usp=sharing ---- models
+
+https://colab.research.google.com/drive/1luy9NJYCfZVY1BlUY5CBynfjCUL3lVis?usp=sharing ---- models
+
+https://colab.research.google.com/drive/1dHOTgqxilBpD-qDyA-cm8nk5RZtJALV6?usp=sharing ---- box plots
+
+https://colab.research.google.com/drive/13Id4WdQwMWTvzVmmfqRFjaaLER8CM47i?usp=sharing --- seasonal 
